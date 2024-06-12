@@ -117,7 +117,7 @@ export default {
     </v-navigation-drawer>
 
     <v-main>
-      <router-view class="pa-4" />
+      <router-view />
     </v-main>
 
   </v-app>
